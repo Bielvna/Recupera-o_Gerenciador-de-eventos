@@ -1,0 +1,33 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Jogo do Santos",
+      "data": "15/12/2026 - 16h00",
+      "local": "Vila Belmiro, Santos - SP",
+      "imagem": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=500&q=80"
+    },
+    {
+      "id": 2,
+      "nome": "Final da Copa Amadora de Sumaré",
+      "data": "20/12/2026 - 10h00",
+      "local": "Estádio Municipal, Sumaré - SP",
+      "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=500&q=80"
+    },
+    {
+      "id": 3,
+      "nome": "Peneira Aberta - Base Sub-17",
+      "data": "10/01/2027 - 08h30",
+      "local": "CT Rei Pelé, Santos - SP",
+      "imagem": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&q=80"
+    },
+    {
+      "id": 4,
+      "nome": "Pelada Beneficente de Fim de Ano",
+      "data": "27/12/2026 - 19h00",
+      "local": "Arena Society Central",
+      "imagem": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=500&q=80"
+    }
+  ],
+  "inscricoes": []
+}
